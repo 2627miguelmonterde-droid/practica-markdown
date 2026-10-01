@@ -15,10 +15,10 @@ Este repositorio contiene mi práctica de *Markdown* utilizando *Visual Studio C
 
 ## Tareas
 
-- [x] Crear el repositorio
-- [x] Crear el README
-- [ ] Completar la práctica
-- [ ] Subir los cambios a GitHub
+-  Crear el repositorio
+-  Crear el README
+-  Completar la práctica
+-  Subir los cambios a GitHub
 
 ## Comandos utilizados hoy
 
